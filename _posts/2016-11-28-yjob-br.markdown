@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "YJob - Vagas de TI"
+categories: jobs
+link-telegram: https://telegram.me/yjob_br
+---
+Colaboração: YJob (@yjob_br)
